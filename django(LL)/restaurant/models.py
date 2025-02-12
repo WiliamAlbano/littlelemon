@@ -9,7 +9,7 @@ class Menu(models.Model):
     description = models.TextField()
 
     def __str__(self):
-        return self.name
+        return f'{self.title} : {str(self.price)}'
 
 class Booking(models.Model):
     name = models.CharField(max_length=100)
