@@ -29,7 +29,7 @@ class MenuItemsView(generics.ListCreateAPIView):
 
 class SingleMenuItemView(generics.RetrieveUpdateAPIView, generics.DestroyAPIView):  
     queryset = Menu.objects.all()  
-    serializer_class = UserSerializer  
+    serializer_class = MenuSerializer  
 
 class BookingViewSet(viewsets.ModelViewSet):
     queryset = Booking.objects.all()  # Fetch all objects from the Booking model
