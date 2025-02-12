@@ -32,7 +32,7 @@ Este projeto é uma aplicação web desenvolvida com Django para gerenciar menus
 
 ### 📌 1. Clone the repository / Clonar o repositório
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/WiliamAlbano/littlelemon
 cd your-repository
 ```
 
@@ -154,7 +154,7 @@ python manage.py test
 ---
 
 ## 📌 Author / Autor
-Developed by [Your Name](https://github.com/your-username)  
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)  
+Developed by Wiliam Albano (https://github.com/WiliamAlbano)  
+Desenvolvido por Wiliam Albano (https://github.com/WiliamAlbano)
 
 ---
